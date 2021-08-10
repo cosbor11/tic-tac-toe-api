@@ -12,7 +12,7 @@
     1.  ✔  Clone this project: `git clone https://github.com/cosbor11/tic-tac-toe-api.git`
     2.  ✔  Navigate to the root of the project `cd tic-tac-toe-api`
     3.  ✔  run `go build` to install the dependencies
-    4.  ✔  run: `go run server.go` to launch the application
+    4.  ✔  run: `go run server.go` to launch the application on localhost:5500
 
   - **User Interface**:
      -  see: https://github.com/cosbor11/tic_tac_toe_ui
