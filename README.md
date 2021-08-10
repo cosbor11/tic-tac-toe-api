@@ -2,7 +2,7 @@
 
 ## Summary
 
-`tic-tac-toe-api`  is an api service that exposes an endpoint that will always calculate the best move given a game state
+`tic-tac-toe-api`  is an api service that exposes an endpoint that will always calculate the best move for a given a game state.
 
 ## How to Run Locally
   - **Prerequisites**:  
