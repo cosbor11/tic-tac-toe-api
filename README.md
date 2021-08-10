@@ -9,9 +9,10 @@
     1. ✔ go go1.16.6 darwin/amd64
    
   - **Running**:
-    1.  ✔  Clone the `tic-tac-toe-api` project and launch the backend service. See the tic-tac-toe-api/README.md for details
-    2.  ✔  run `go build` to install the dependencies
-    3.  ✔  run: `go run server.go` to launch the application
+    1.  ✔  Clone this project: `git clone https://github.com/cosbor11/tic-tac-toe-api.git`
+    2.  ✔  Navigate to the root of the project `cd tic-tac-toe-api`
+    3.  ✔  run `go build` to install the dependencies
+    4.  ✔  run: `go run server.go` to launch the application
 
   - **User Interface**:
      -  see: https://github.com/cosbor11/tic_tac_toe_ui
