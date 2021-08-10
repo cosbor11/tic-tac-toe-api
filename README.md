@@ -7,9 +7,6 @@
 ## How to Run Locally
   - **Prerequisites**:  
     1. ✔ go go1.16.6 darwin/amd64
-    2. ✔ Flutter 2.2.3
-    3. ✔ Dart 2.13.4
-    4. ✔ Chrome browser
    
   - **Running**:
     1.  ✔  Clone the `tic-tac-toe-api` project and launch the backend service. See the tic-tac-toe-api/README.md for details
