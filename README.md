@@ -6,7 +6,7 @@
 
 ## How to Run Locally
   - **Prerequisites**:  
-    1. ✔ go go1.16.6 darwin/amd64
+    1. ✔ go go1.16.6 darwin/amd64. `brew install golang`
    
   - **Running**:
     1.  ✔  Clone this project: `git clone https://github.com/cosbor11/tic-tac-toe-api.git`
