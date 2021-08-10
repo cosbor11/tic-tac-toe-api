@@ -16,6 +16,9 @@
     2.  ✔  run `go build` to install the dependencies
     3.  ✔  run: `go run server.go` to launch the application
 
+  - **User Interface**:
+     -  see: https://github.com/cosbor11/tic_tac_toe_ui
+
 ## Endpoints
 
   - **POST /next-move**:
